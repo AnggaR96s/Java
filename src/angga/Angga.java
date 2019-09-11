@@ -8,7 +8,7 @@ package angga;
 
 /**
  *
- * @author upi
+ * @author AnggaR96s
  */
 public class Angga {
 
