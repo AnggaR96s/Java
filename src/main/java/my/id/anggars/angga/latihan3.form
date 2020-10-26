@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="btotal" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                              <Component id="keluar" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="84" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="tnilai" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                              <Component id="total" pref="276" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="tnobp" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="tnama" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="ttugas" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="tquiz" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="tuts" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="tuas" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="nuas" pref="276" max="32767" attributes="0"/>
+                                  <Component id="nuts" max="32767" attributes="0"/>
+                                  <Component id="nquiz" max="32767" attributes="0"/>
+                                  <Component id="ntugas" max="32767" attributes="0"/>
+                                  <Component id="nama" max="32767" attributes="0"/>
+                                  <Component id="nobp" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tnobp" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nobp" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tnama" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nama" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ttugas" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ntugas" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tquiz" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nquiz" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tuts" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nuts" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tuas" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nuas" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btotal" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="keluar" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tnilai" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="total" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Dialog" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="MENGHITUNG NILAI AKHIR"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tnobp">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NoBP"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tnama">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nama"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ttugas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nilai Tugas"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tquiz">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nilai Quiz"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tuts">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nilai UTS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tuas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nilai UAS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nobp">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nama">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ntugas">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nquiz">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nuts">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nuas">
+    </Component>
+    <Component class="javax.swing.JButton" name="btotal">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PROSES"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btotalActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="keluar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Keluar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keluarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tnilai">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ToT Nilai Akhir"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="total">
+    </Component>
+  </SubComponents>
+</Form>
